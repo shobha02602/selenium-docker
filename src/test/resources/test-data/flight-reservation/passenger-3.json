@@ -1,0 +1,13 @@
+
+
+{
+  "firstName": "John",
+  "lastName": "Bec",
+  "email": "john@test.com",
+  "password": "john",
+  "street": "123 street",
+  "city": "NY",
+  "zip": "1236",
+  "passengersCount": "3",
+  "expectedPrice": "$1753 USD"
+}

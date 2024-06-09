@@ -1,0 +1,11 @@
+{
+  "firstName": "Scott",
+  "lastName": "Jackson",
+  "email": "scott@test.com",
+  "password": "scott",
+  "street": "123 street",
+  "city": "Alabama",
+  "zip": "5678",
+  "passengersCount": "2",
+  "expectedPrice": "$1169 USD"
+}

@@ -1,0 +1,11 @@
+{
+  "firstName": "Mike",
+  "lastName": "Biden",
+  "email": "mike@test.com",
+  "password": "mike",
+  "street": "123 street",
+  "city": "Wisconsin",
+  "zip": "1345",
+  "passengersCount": "4",
+  "expectedPrice": "$2338 USD"
+}
