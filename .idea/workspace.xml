@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c44d7515-5ddb-4c31-9d63-c8a6022ba313" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gQQUNxdTfHXbbih6VhDDNbXgOV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/singl/LearnDocker/workspace/03-automation-framework/selenium-docker/src/test/resources/test-suites/flight-reservation.xml.executor": "Run",
+    "TestNG.C:/Users/singl/LearnDocker/workspace/03-automation-framework/selenium-docker/src/test/resources/test-suites/vendor-portal.xml.executor": "Run",
+    "TestNG.FlightReservationTest (1).executor": "Debug",
+    "TestNG.FlightReservationTest.executor": "Debug",
+    "TestNG.FlightReservationTest.userRegistration.executor": "Run",
+    "TestNG.VendorPortalTest (1).executor": "Run",
+    "TestNG.VendorPortalTest.dashboardTest.executor": "Run",
+    "TestNG.VendorPortalTest.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/singl/LearnDocker/dockerWorkspace/selenium-docker-runner",
+    "onboarding.tips.debug.path": "C:/Users/singl/LearnDocker/workspace/03-automation-framework/selenium-docker/src/main/java/com/selenium/docker/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\singl\LearnDocker\workspace\03-automation-framework\selenium-docker\src\test\resources\test-data.flight-reservation" />
+      <recent name="C:\Users\singl\LearnDocker\workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites" />
+      <recent name="C:\Users\singl\LearnDocker\workspace\03-automation-framework\selenium-docker\src\test\resources\test-data\vendor-portal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\singl\LearnDocker\workspace\03-automation-framework\selenium-docker\src\test\resources" />
+      <recent name="C:\Users\singl\LearnDocker\workspace\03-automation-framework\selenium-docker\src\test\resources\test-data\flight-reservation" />
+      <recent name="C:\Users\singl\LearnDocker\workspace\03-automation-framework\selenium-docker\src\test\resources\test-data\vendor-portal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/singl/LearnDocker/workspace/03-automation-framework/selenium-docker/src/test/resources/test-suites/vendor-portal.xml">
+    <configuration name="C:/Users/singl/LearnDocker/workspace/03-automation-framework/selenium-docker/src/test/resources/test-suites/flight-reservation.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/test-suites/flight-reservation.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/singl/LearnDocker/workspace/03-automation-framework/selenium-docker/src/test/resources/test-suites/vendor-portal.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/test-suites/vendor-portal.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightReservationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.docker.tests.flightreservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.docker.tests.flightsreservation" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.docker.tests.flightreservation.FlightReservationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightReservationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.docker.tests.flightreservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.docker.tests.flightsreservation" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.docker.tests.flightreservation.FlightReservationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendorPortalTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.docker.tests.vendorportal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.docker.tests.vendorportal" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.docker.tests.vendorportal.VendorPortalTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/singl/LearnDocker/workspace/03-automation-framework/selenium-docker/src/test/resources/test-suites/vendor-portal.xml" />
+        <item itemvalue="TestNG.C:/Users/singl/LearnDocker/workspace/03-automation-framework/selenium-docker/src/test/resources/test-suites/flight-reservation.xml" />
+        <item itemvalue="TestNG.FlightReservationTest" />
+        <item itemvalue="TestNG.VendorPortalTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c44d7515-5ddb-4c31-9d63-c8a6022ba313" name="Changes" comment="" />
+      <created>1715627338537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715627338537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/selenium/docker/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/tests/vendorportal/VendorPortalTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/tests/vendorportal/VendorPortalTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/tests/flightreservation/FlightReservationTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/tests/flightreservation/FlightReservationTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/tests/flightreservation/model/FlightReservationTestData.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/util/ResourceLoader.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/util/ResourceLoader.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/util/JsonUtil.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/tests/flightreservation/FlightReservationTest.java</url>
+          <line>16</line>
+          <properties field="testData" class="com.selenium.docker.tests.flightreservation.FlightReservationTest" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/util/JsonUtil.java</url>
+          <line>12</line>
+          <properties field="log" class="com.selenium.docker.util.JsonUtil" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/docker/tests/flightreservation/FlightReservationTest.java</url>
+          <line>21</line>
+          <properties class="com.selenium.docker.tests.flightreservation.FlightReservationTest" method="setParameters">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
