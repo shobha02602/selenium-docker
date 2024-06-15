@@ -11,6 +11,8 @@ ADD target/docker-resources ./
 #Adding runner.sh to check when the hub is ready
 ADD runner.sh   runner.sh
 
+RUN dos2unix runner.sh
+
 #Environment variables
 #BROWSER
 #HUB_HOST
